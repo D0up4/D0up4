@@ -39,6 +39,14 @@
 
 <br clear="both">
 
+<img src="https://raw.githubusercontent.com/D0up4/D0up4/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=D0up4.D0up4&"  />
+</div>
+
 ###
 
 <picture>
@@ -46,11 +54,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/D0up4/D0up4/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/D0up4/D0up4/output/pacman-contribution-graph.svg">
 </picture>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=D0up4.D0up4&"  />
-</div>
 
 ###
